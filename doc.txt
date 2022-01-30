@@ -1,0 +1,33 @@
+html css - reusable block
+css code hei...
+
+
+first-child
+last-child
+nth-child
+
+
+font-family
+font-size - px / pt / em / rem
+font-weight - 300 / 400 / 500  / 600 / 700 / 900
+font-transforn
+color
+line-height
+letter-spacing
+word-spacing
+
+
+UI  UX
+
+box-shadow
+gradient
+noise texture
+border redius
+
+
+
+
+
+
+
+
